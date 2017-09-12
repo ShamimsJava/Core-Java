@@ -1,0 +1,3 @@
+pkgclass.pkg26_nesterclass_2_annonymusinner.TestAnnonymousInner1
+pkgclass.pkg26_nesterclass_2_annonymusinner.TestAnnonymousInner1$1
+pkgclass.pkg26_nesterclass_2_annonymusinner.Eatable
